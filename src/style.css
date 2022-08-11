@@ -42,13 +42,13 @@ body {
   font-size: 0.3em;
 }
 .coming input {
-  padding: 5px 2px;
+  padding: 10px 20px;
 }
 .coming .form {
   display: flex;
   justify-content: center;
 }
 .coming button {
-  padding: 5px 2px;
+  padding: 10px 20px;
   margin-left: 20px;
 }
